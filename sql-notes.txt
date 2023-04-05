@@ -22,57 +22,7 @@ DECIMAL(10,4)        -- (arg1 = how many digits total, arg2 = how many digits af
 VARCHAR(5)          --String of text with length 5 (argument is for how much to store)
 BLOB                --Binary Large Object, Stores large data (binary) such as images and files
 DATE                -- 'yyyy-mm-dd'
-TIMESTAMP           --'yyyy-mm-dd hh:mm:ss' for recording
-
-
-
-
-
-
-Note and 
-
-
-
-Work
-6 AM - 6 30 PM
-FRI SAT SUN
-
-2/9
-1:15 pm live tour
-/sh Want some headbanging music tonight!? Wanna ROCK out with us at the newest and Aether's ONLY Metal club!? Join our debut tonight at 11pm - 5am. <wait.3>
-/sh Join us for Metal DJ Confusion's banging debut! Let's rip this ship apart! Have some extra Gil burning a hole in your pocket? Come see if Sinnji favor’s you on deck tonight.
-<wait.3>
-/sh Feeling lonely? Let one of our lovely METAL DOLLZ help you get that pep back @ Faerie Eastern La Noscea , Costa De Sol ( 38.9  , 24.5 )
-
-
-/sh Life got you down?? Boss make you clench your first a lil harder today? Do you want to smash your angry feelings away!? Come rock the f*** out at Aether's ONLY metal club at The Hall of Mosh!! <wait.3>
-/sh Come tear the floor apart at Faerie/Mists/W7/P44. DJ Confusion will be on tonight to rock your shit!! <wait.3>
-/sh Feeling lonely too? Let one of our lovely METAL DOLLZ warm you up tonight c; @The Hall of Mosh | Faerie/Mists/W7, P44.
-
-
-
-
-
-Hall of Mosh
-Faerie/Mists/W7, P44.
-
-Jan 31 Monday, 9:45 am, haircut.
-
-
-
-9th Feb 1:15 pm apartment (samueld.song) Uptown Square
-
-
-Monday, 02/07/2022 at 1 pm The Lodge Apartment Homes (s.songisyellow)
-
-
-
-
-
-Christoff
-info@720mainstreettattoo.com
-march 1st: 11 am
-
+TIMESTAMP           --'yyyy-mm-dd hh:mm:ss' for recordi
 
 
 
